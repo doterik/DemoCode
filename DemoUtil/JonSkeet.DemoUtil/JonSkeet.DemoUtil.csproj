@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>preview</LangVersion>
+    <Nullable>enable</Nullable>
     <PackageId>JonSkeet.DemoUtil</PackageId>
     <PackageVersion>1.2.0</PackageVersion>
     <Authors>Jon Skeet</Authors>
